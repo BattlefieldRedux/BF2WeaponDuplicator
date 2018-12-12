@@ -1,0 +1,12 @@
+F:\Computer\Visual Studio\2017 Community\C#\BF2WeaponDuplicator\BF2WeaponDuplicator\bin\Debug\BF2WeaponDuplicator.exe
+F:\Computer\Visual Studio\2017 Community\C#\BF2WeaponDuplicator\BF2WeaponDuplicator\bin\Debug\BF2WeaponDuplicator.pdb
+F:\Computer\Visual Studio\2017 Community\C#\BF2WeaponDuplicator\BF2WeaponDuplicator\obj\Debug\BF2WeaponDuplicator.csprojAssemblyReference.cache
+F:\Computer\Visual Studio\2017 Community\C#\BF2WeaponDuplicator\BF2WeaponDuplicator\obj\Debug\BF2WeaponDuplicator.Form1.resources
+F:\Computer\Visual Studio\2017 Community\C#\BF2WeaponDuplicator\BF2WeaponDuplicator\obj\Debug\BF2WeaponDuplicator.Properties.Resources.resources
+F:\Computer\Visual Studio\2017 Community\C#\BF2WeaponDuplicator\BF2WeaponDuplicator\obj\Debug\BF2WeaponDuplicator.csproj.GenerateResource.cache
+F:\Computer\Visual Studio\2017 Community\C#\BF2WeaponDuplicator\BF2WeaponDuplicator\obj\Debug\BF2WeaponDuplicator.csproj.CoreCompileInputs.cache
+F:\Computer\Visual Studio\2017 Community\C#\BF2WeaponDuplicator\BF2WeaponDuplicator\obj\Debug\BF2WeaponDuplicator.exe
+F:\Computer\Visual Studio\2017 Community\C#\BF2WeaponDuplicator\BF2WeaponDuplicator\obj\Debug\BF2WeaponDuplicator.pdb
+F:\Computer\Visual Studio\2017 Community\C#\BF2WeaponDuplicator\BF2WeaponDuplicator\bin\Debug\Microsoft.Scripting.Metadata.dll
+F:\Computer\Visual Studio\2017 Community\C#\BF2WeaponDuplicator\BF2WeaponDuplicator\bin\Debug\Microsoft.Scripting.Metadata.xml
+F:\Computer\Visual Studio\2017 Community\C#\BF2WeaponDuplicator\BF2WeaponDuplicator\obj\Debug\BF2WeaponDuplicator.csproj.CopyComplete
